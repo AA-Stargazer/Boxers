@@ -1,5 +1,6 @@
 # Boxers
-scrapped boxers
+scrapped box fighters 
+
 
 I can't show complete file because it's so big, but as an example it's enough.
 
